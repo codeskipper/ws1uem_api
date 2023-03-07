@@ -3,7 +3,8 @@
 """
 Script to workaround VMWare WorkSpace One Hub for macOS update issue
 see https://kb.vmware.com/s/article/88834?lang=en_US
-Made for running on a Mac
+
+Made for running on a Mac, tested with MacAdmins Python recommended
 """
 
 import base64
